@@ -206,3 +206,7 @@ zhulinniao-z2-tuner/
 - [Ircama/ja11-config](https://github.com/Ircama/ja11-config)
 
 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kirby-eraser/ZhuAudio-zhulinniao-z2-tuner&type=Date)](https://star-history.com/#kirby-eraser/ZhuAudio-zhulinniao-z2-tuner&Date)
+
+
