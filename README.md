@@ -205,6 +205,4 @@ zhulinniao-z2-tuner/
 - [gxcreator/ktmicro-tools](https://github.com/gxcreator/ktmicro-tools)
 - [Ircama/ja11-config](https://github.com/Ircama/ja11-config)
 
-## 许可证
 
-发布前请自行选择许可证（如 MIT / GPL-3.0）并添加 `LICENSE` 文件。本仓库使用的界面素材来自官方 App，仅作个人设备工具展示用途。
