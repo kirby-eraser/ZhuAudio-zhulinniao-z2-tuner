@@ -1,0 +1,9 @@
+# 竹林鸟 霜华 Z2 PC 工具依赖
+# 安装：pip install -r requirements.txt
+# libusb-package 自带 libusb-1.0.dll，解决 Windows 上 pyusb "No backend available"。
+# 实机验证：HID 接口 3 可直接 claim，不需要 Zadig 绑定 WinUSB。
+pyusb>=1.2.1
+libusb-package>=1.0.26
+#
+# 仅「APK 逆向分析脚本」(apk_*.py) 需要；运行调音台或 Z2Tuner.exe 不需要：
+#   pip install androguard
